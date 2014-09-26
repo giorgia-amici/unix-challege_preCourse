@@ -1,0 +1,102 @@
+
+These are the commands used for the Unix CL Challenge_preCourse  @Makers_Academy
+
+
+2. 
+pwd
+=> /Users/giorgia/"Challenge 1" 
+
+3.
+mmkdir New => New
+> newFile  => newFile
+
+4.
+mv newFile New
+
+5.
+pwd 
+=> /Users/giorgia/Challenge\ 1/New
+
+6.
+cd ../Text\ Files/
+
+9.
+mkdir foo
+mkdir/foo/bar
+
+10.
+ls
+
+11.
+ls -l
+
+12.
+rmdir Empty\ Folder/
+
+13.
+
+14.
+cd Text\ Files/
+
+15.
+cp More\ text.txt "Learn to code.txt"
+
+16.
+head -5 "Learn to code" 
+
+17.
+tail -5 "More text.txt" 
+
+18.
+cat "Learn to code"
+
+19.
+
+
+20.
+>blank
+
+21.
+ls *.txt
+
+22.
+wc -l "Learn to code"
+
+23.
+wc -w "Less text.txt"
+
+24.
+ls *.txt | wc -l
+
+25.
+ls */b*
+
+26.
+man wc
+
+27.
+env
+
+28.
+DAY=20
+export DAY
+
+32.
+ls -l More\ text.txt
+
+33.
+chmod g+w More\ text.txt 
+
+34.
+chmod o-r  More\ text.txt
+
+35.
+
+
+36.
+echo "Hello word"
+
+37.
+
+
+39.
